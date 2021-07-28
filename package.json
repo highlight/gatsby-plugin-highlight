@@ -1,6 +1,6 @@
 {
   "name": "@highlight-run/gatsby-plugin-highlight",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gatsby plugin for adding Highlight error monitoring and session recording.",
   "main": "index.js",
   "repository": "git@github.com:highlight-run/gatsby-plugin-highlight.git",
