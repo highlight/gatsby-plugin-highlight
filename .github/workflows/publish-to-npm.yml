@@ -1,8 +1,8 @@
-name: Firstload
+name: gatsby-plugin-highlight
 on:
   push:
     paths:
-      - "./**"
+      - "gatsby-plugin-highlight/**"
 jobs:
   firstload:
     runs-on: ubuntu-latest
