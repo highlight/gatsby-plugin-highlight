@@ -12,7 +12,7 @@ module.exports = {
     	disableNetworkRecording: false;
     	disableConsoleRecording: false;
     	enableStrictPrivacy: false;
-   	environment: 'production';
+   	  environment: 'production';
     	version: '5.2.3';
     	networkRecording: true;
       }
