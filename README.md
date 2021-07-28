@@ -15,7 +15,13 @@ module.exports = {
     {
       resolve: "@highlight-run/gatsby-plugin-highlight",
       options: {
-          dsn: process.env.SENTRY_DSN, // this is the default
+        // See all the options here: https://docs.highlight.run/reference#options
+    	disableNetworkRecording: false;
+    	disableConsoleRecording: false;
+    	enableStrictPrivacy: false;
+   	environment: 'production';
+    	version: '5.2.3';
+    	networkRecording: true;
       }
     },
   ]
