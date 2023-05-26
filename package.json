@@ -7,7 +7,7 @@
   "author": "John Pham <john@highlight.run>",
   "license": "MIT",
   "dependencies": {
-    "highlight.run": "^2.3.1"
+    "highlight.run": "^6.0.0"
   },
   "keywords": [
     "highlight",
