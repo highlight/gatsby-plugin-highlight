@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-highlight.run@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/highlight.run/-/highlight.run-2.3.1.tgz#5c80d3a32e2ba6b2f1b899c667d3f0a4d11a6081"
-  integrity sha512-IaDQHFnruyfjsYiykU6Y3LH6YUyFtJXkbVzEK3bI8t1reJ9mv23HfZdtFtVxpcxZZgnpbi7+KKhw0SHPw+JuJw==
+highlight.run@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/highlight.run/-/highlight.run-6.0.0.tgz#bdb127cea119a7678e19ee7cd009cd46f02edf29"
+  integrity sha512-DVrYRJ9pvPBjcpNiKLaOtM3QN8Nm2dDhhJjRbJZU+WP4i8f50gGbYWHz7pqNAtqotyr0chMCPZMeOFgKXDyc8A==
