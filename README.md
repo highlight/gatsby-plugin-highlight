@@ -9,7 +9,7 @@ module.exports = {
       resolve: "@highlight-run/gatsby-plugin-highlight",
       options: {
         orgID: 'MY_ORG_ID',
-        // See all the options here: https://docs.highlight.run/reference#options
+        // See all the options here: https://www.highlight.io/docs/sdk/client#options
     	disableNetworkRecording: false,
     	disableConsoleRecording: false,
     	enableStrictPrivacy: false,
@@ -22,7 +22,7 @@ module.exports = {
 }
 ```
 
-Options will be passed directly to `H.init`. See all available options in [our docs](https://docs.highlight.run/reference#importing-the-library).
+Options will be passed directly to `H.init`. See all available options in [our docs](https://www.highlight.io/docs/sdk/client#options).
 
 ## Links
 
