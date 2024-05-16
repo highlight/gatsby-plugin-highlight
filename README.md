@@ -10,12 +10,12 @@ module.exports = {
       options: {
         orgID: 'MY_ORG_ID',
         // See all the options here: https://www.highlight.io/docs/sdk/client#options
-    	disableNetworkRecording: false,
-    	disableConsoleRecording: false,
-    	enableStrictPrivacy: false,
+        disableNetworkRecording: false,
+        disableConsoleRecording: false,
+        enableStrictPrivacy: false,
    	    environment: 'production',
-    	version: '5.2.3',
-    	networkRecording: true,
+        version: '5.2.3',
+        networkRecording: true,
       }
     },
   ]
