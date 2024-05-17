@@ -11,10 +11,8 @@ jobs:
         with:
           node-version: 15.11.0
           registry-url: https://registry.npmjs.org
-      - name: Install main dependencies
-        run: yarn install
       - name: Publish
         if: github.ref == 'refs/heads/main'
-        run: yarn publish --access public
+        run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
