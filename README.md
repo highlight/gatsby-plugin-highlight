@@ -26,5 +26,5 @@ Options will be passed directly to `H.init`. See all available options in [our d
 
 ## Links
 
-- [Official SDK Docs](https://docs.highlight.run/reference#overview)
-- [Website](https://highlight.run)
+- [Official SDK Docs](https://highlight.io/docs)
+- [Website](https://highlight.io)
